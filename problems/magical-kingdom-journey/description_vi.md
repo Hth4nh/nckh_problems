@@ -64,12 +64,22 @@ Giải thích: Không thể đi từ thành phố 1 đến bất kỳ thành ph�
 Đầu vào:
 ```
 5 2
-1 3 2 5 4
+1 4 2 5 3
 ```
 
 Đầu ra:
 ```
-9
+6
 ```
 
-Giải thích: Một đường đi khả thi là 1 -> 3 -> 5. Tổng năng lượng phép thuật là 1 + 2 + 4 = 7. Một đường đi khả thi khác là 1 -> 2 -> 4. Tổng năng lượng phép thuật là 1 + 3 + 5 = 9. Do đó, tổng năng lượng phép thuật tối đa là 9.
+Giải thích: Một đường đi khả thi là 1 -> 3 -> 5. Năng lượng phép thuật của các thành phố này lần lượt là 1, 2 và 3. Tổng năng lượng phép thuật là $1 + 2 + 3 = 6$.
+- 1 -> 3: $2 - 1 = 1 \le 2$ (Hợp lệ)
+- 3 -> 5: $3 - 2 = 1 \le 2$ (Hợp lệ)
+
+Một đường đi khả thi khác từ thành phố 1 đến thành phố 5 là 1 -> 5. Năng lượng phép thuật là 1 và 3. Tổng năng lượng phép thuật là $1 + 3 = 4$.
+- 1 -> 5: $3 - 1 = 2 \le 2$ (Hợp lệ)
+
+Đường đi 1 -> 2 không hợp lệ vì $4 - 1 = 3 > 2$.
+Đường đi 1 -> 4 không hợp lệ vì $5 - 1 = 4 > 2$.
+
+So sánh các đường đi hợp lệ đến thành phố 5, tổng năng lượng phép thuật tối đa là 6, thu được từ đường đi 1 -> 3 -> 5.
