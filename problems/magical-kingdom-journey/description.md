@@ -64,12 +64,22 @@ Explanation: It is not possible to travel from city 1 to any other city because 
 Input:
 ```
 5 2
-1 3 2 5 4
+1 4 2 5 3
 ```
 
 Output:
 ```
-9
+6
 ```
 
-Explanation: One possible path is 1 -> 3 -> 5. The total magical energy is 1 + 2 + 4 = 7. Another possible path is 1 -> 2 -> 4. The total magical energy is 1 + 3 + 5 = 9.  Therefore, the maximum total magical energy is 9.
+Explanation: One possible path is 1 -> 3 -> 5. The energy levels of these cities are 1, 2, and 3 respectively. The total magical energy is $1 + 2 + 3 = 6$.
+- 1 -> 3: $2 - 1 = 1 \le 2$ (Valid)
+- 3 -> 5: $3 - 2 = 1 \le 2$ (Valid)
+
+Another possible path from city 1 to city 5 is 1 -> 5. The energy levels are 1 and 3. The total magical energy is $1 + 3 = 4$.
+- 1 -> 5: $3 - 1 = 2 \le 2$ (Valid)
+
+Path 1 -> 2 is invalid because $4 - 1 = 3 > 2$.
+Path 1 -> 4 is invalid because $5 - 1 = 4 > 2$.
+
+Comparing the valid paths reaching city 5, the maximum total magical energy is 6, obtained from the path 1 -> 3 -> 5.
