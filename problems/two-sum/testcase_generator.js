@@ -15,15 +15,15 @@ function create(maxN, minV, maxV) {
         res2 = getRandom(0, n - 1);
     }
 
-    const arr = [];
+    const nums = [];
     const set = new Set([v1, v2]);
 
     for (let i = 0; i < n; i++) {
         if (i === res1) {
-            arr.push(v1);
+            nums.push(v1);
         }
         else if (i === res2) {
-            arr.push(v2);
+            nums.push(v2);
         }
         else {
             let v = getRandom(minV, maxV);
@@ -31,15 +31,33 @@ function create(maxN, minV, maxV) {
                 v = getRandom(minV, maxV);
             }
 
-            arr.push(v);
+            nums.push(v);
             set.add(v);
         }
     }
 
-    let input = `${n} ${target}\n${arr.join(" ")}`.split("\n");
-    let output = `${res1} ${res2}`.split("\n");
+    let result = [res1, res2];
 
-    return { input, output };
+    return {
+        "isVisible": true,
+        "output": {
+            "name": "result",
+            "type": "array",
+            "value": JSON.stringify(result)
+        },
+        "param": [
+            {
+                "name": "nums",
+                "type": "array",
+                "value": JSON.stringify(nums)
+            },
+            {
+                "name": "target",
+                "type": "number",
+                "value": JSON.stringify(target)
+            }
+        ]
+    }
 }
 
 function main() {
