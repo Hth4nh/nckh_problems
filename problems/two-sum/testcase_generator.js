@@ -39,7 +39,7 @@ function create(maxN, minV, maxV) {
     let result = [res1, res2];
 
     return {
-        "isVisible": true,
+        "isVisible": false,
         "output": {
             "name": "result",
             "type": "array",
