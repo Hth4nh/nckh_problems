@@ -5,8 +5,6 @@ function getRandom(minV, maxV) {
 function create(maxN) {
     let n = BigInt(getRandom(1, maxN));
 
-    let input = `${n}`.split("\n");
-
     // use matrix expo
     const mod = BigInt(1e9 + 7);
 
@@ -38,15 +36,30 @@ function create(maxN) {
     let resultMatrix = power(fibMatrix, n);
     let fibN = resultMatrix[0][1];
 
-    let output = `${fibN}`.split("\n");
+    let input = "" + n;
+    let output = "" + fibN;
 
-    return { input, output };
+    return {
+        isVisible: false,
+        output: {
+            "name": "result",
+            "type": "number",
+            "value": output
+        },
+        param: [
+            {
+              "name": "n",
+              "type": "number",
+              "value": input
+            }
+        ]
+    };
 }
 
 function main() {
     let arr = [];
 
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 100; i++) {
         let maxN;
         if (i < 40) {
             maxN = 1e2;
