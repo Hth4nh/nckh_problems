@@ -1,0 +1,1569 @@
+{
+  "case": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "1"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "1"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "55"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "209783453"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1000000000000000000"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "665487541"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "88"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "1"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "807526948"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "433494437"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "43"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "720754435"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "93"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "730764433"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "61"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "786116714"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "86"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "4181"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "583861472"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "55"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "10946"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "5702887"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "34"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "692862594"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "84"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "500422649"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "97"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "9227465"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "8"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "267914296"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "610"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "971215059"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "47"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "535793874"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "74"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "832040"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "30"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "593786270"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "98"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "720754435"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "93"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "514229"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "29"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "13"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "519013702"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "489376391"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "70"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "701408733"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "44"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "519013702"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "107920472"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "81"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "55"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "8390086"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "72"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "4181"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "102334155"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "233"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "46368"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "662189184"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "77"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "807526948"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "48"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "34"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "292471061"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "82"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "407059028"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "95"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "236874773"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "9960"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "965227713"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2137"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "765709306"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1127"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "210865680"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "5204"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "210204523"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1511"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "783727437"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "9048"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "919658114"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "966"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "562556588"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "4334"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "374731316"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "5541"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "961737261"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "4951"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "540915656"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "8061"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "52937479"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "6672"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "297163285"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2454"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "290904239"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1092"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "570472651"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2550"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "999090133"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "3410"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "299426892"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "5778"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "696987595"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "4166"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "842717073"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "9259"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "828238934"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "2394"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "896352597"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "493055825"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "308884231"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "101986589"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "736893984"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "575334029"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "802063928"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "991391538"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "626406056"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "741796864"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "754885609"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "737319579"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "293212626"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "406328938"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "638578425"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "445086549"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "556529267"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "955693270"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "685836833"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "987684756"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "644639172"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "819803042"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "775025343"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "581036341"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "404235913"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "181596339"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "43037906"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "692121113"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "839228216"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "16815770"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "810759253"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "784174184"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "774944552"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "376878162"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "208585311"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "21727960"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "679278669"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "447888616"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "949990460"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "838214103"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "569813990"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "487892587101912768"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "864934102"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "183495308878203648"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "200046842"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "427392966438288256"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "41681871"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "16545791024849432"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "600410070"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "531655368125649280"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "698401122"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "428900550195163840"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "763868083"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "739903252815735936"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "151469100"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "897649237064557056"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "438483971"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "558045288532248448"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "971481550"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "80998509869433472"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "548909159"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "478564989823214848"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "578857177"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "121981078440395184"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "178714491"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "788716467105872768"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "942368307"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "118372758481141920"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "410800925"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "60296698910728640"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "390425458"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "140328848248441712"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "440964272"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "448253976246540480"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "233500154"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "758390269002417408"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "771517292"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "958276668678647808"
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "number",
+        "value": "25392455"
+      },
+      "param": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "377412086315284992"
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en-US": "<p>The <strong>Fibonacci numbers</strong>, commonly denoted <code>F(n)</code> form a sequence, called the <strong>Fibonacci sequence</strong>, such that each number is the sum of the two preceding ones, starting from <code>0</code> and <code>1</code>. That is,</p>\n\n<pre>\nF(0) = 0, F(1) = 1\nF(n) = F(n - 1) + F(n - 2), for n > 1\n</pre>\n\n<p>Given <code>n</code>, calculate <code>F(n)</code>.</p>\n\n<p>The result is very large, output it modulo 10<sup>9</sup> + 7.</p>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre><strong>Input:</strong> n = 1\n<strong>Output:</strong> 1\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre><strong>Input:</strong> n = 2\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> F(2) = F(1) + F(0) = 1 + 0 = 1.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre><strong>Input:</strong> n = 10\n<strong>Output:</strong> 55\n</pre>\n\n<p><strong class=\"example\">Example 4:</strong></p>\n\n<pre><strong>Input:</strong> n = 1000000000000000000\n<strong>Output:</strong> 209783453\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>0 <= n <= 10<sup>18</sup></code></li>\n\n</ul>",
+    "vi-VN": "<p>Các <strong>số Fibonacci</strong>, thường được ký hiệu là <code>F(n)</code> tạo thành một dãy, được gọi là <strong>dãy Fibonacci</strong>, sao cho mỗi số là tổng của hai số trước đó, bắt đầu từ <code>0</code> và <code>1</code>. Nghĩa là,</p>\n\n<pre>\nF(0) = 0, F(1) = 1\nF(n) = F(n - 1) + F(n - 2), với n > 1\n</pre>\n\n<p>Cho <code>n</code>, tính <code>F(n)</code>.</p>\n\n<p>Vì kết quả có thể rất lớn, hãy xuất nó dưới dạng modulo của 10<sup>9</sup> + 7.</p>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n\n<pre><strong>Đầu vào:</strong> n = 1\n<strong>Đầu ra:</strong> 1\n</pre>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<pre><strong>Đầu vào:</strong> n = 2\n<strong>Đầu ra:</strong> 1\n<strong>Giải thích:</strong> F(2) = F(1) + F(0) = 1 + 0 = 1.\n</pre>\n\n<p><strong class=\"example\">Ví dụ 3:</strong></p>\n\n<pre><strong>Đầu vào:</strong> n = 10\n<strong>Đầu ra:</strong> 55\n</pre>\n\n<p><strong class=\"example\">Ví dụ 4:</strong></p>\n\n<pre><strong>Đầu vào:</strong> n = 1000000000000000000\n<strong>Đầu ra:</strong> 209783453\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>0 <= n <= 10<sup>18</sup></code></li>\n\n</ul>"
+  },
+  "functionName": "fibonacci"
+}
