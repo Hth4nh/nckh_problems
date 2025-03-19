@@ -111,6 +111,7 @@
         async function setDataUrl(url) {
             window.data = await fetch(url).then(res => res.json());
             renderDescription()
+            testCasesContainer.replaceChildren();
         }
 
         setDataUrl("https://raw.githubusercontent.com/Hth4nh/nckh_problems/refs/heads/main/problems/container-with-most-water/problem_no_testcase.json");
