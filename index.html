@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Problem Statement</title>
+    <title>HUMG Coder (Problem Preview)</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
@@ -52,14 +52,23 @@
             padding: .125rem;
             white-space: pre-wrap;
         }
+
+        .testcase {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Problem Statement</h1>
+        <h1>Description</h1>
         <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
         <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
+        <button id="testcase-render" class="btn" onclick="renderTestCase()">Render test cases</button>
         <div id="problem-description"></div>
+        <div id="test-cases"></div>
     </div>
 
     <script>
@@ -73,6 +82,30 @@
 
         function renderDescription() {
             document.getElementById("problem-description").innerHTML = marked.parse(window.data.description[currentLanguage]);
+        }
+
+        function renderTestCase() {
+            const caseElems = data.cases.map((testCase) => {
+                const div = document.createElement("div");
+                div.classList.add("testcase");
+                
+                if (!testCase.isVisible) {
+                    div.classList.add("hidden");
+                }
+                
+                div.innerHTML = `
+                    <h3>Test Case ${index + 1}</h3>
+                    <pre>
+                        <strong>Input:</strong> ${testCase.params[0].name} = ${testCase.params[0].value}
+                        <strong>Output:</strong> ${testCase.output.value}
+                    </pre>
+                `;
+                
+                return div;
+            });
+
+            const testCasesContainer = document.getElementById("test-cases");
+            testCasesContainer.replaceChildren(...caseElems);
         }
 
         async function setDataUrl(url) {
