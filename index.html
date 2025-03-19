@@ -6,19 +6,28 @@
     <title>Problem Statement</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        pre, code {
-            border-style: solid;
-            border-width: 0px;
-        }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        .btn { margin-bottom: 10px; }
+        
         #problem-description {
             line-height: 1.7rem;
         }
-        li {
+        #problem-description p {
+            margin-bottom: 1rem;
+            line-height: 1.25rem;
+        }
+        #problem-description img {
+            max-width: 100%;
+        }
+        #problem-description pre, #problem-description code {
+            border-style: solid;
+            border-width: 0px;
+        }
+        #problem-description li {
             margin-bottom: .75rem;
         }
-        body { font-family: Arial, sans-serif; margin: 20px; }
-        .container { max-width: 800px; margin: auto; }
-        pre {
+        #problem-description pre {
             border-color: rgba(0, 0, 0, 0.08);
             border-left-width: 2px;
             color: rgba(0, 0, 0, 0.55);
@@ -31,7 +40,7 @@
             padding-left: 1rem;
             white-space: pre-wrap;
         }
-        code {
+        #problem-description code {
             background-color: #000a2008;
             border-color: rgba(0, 0, 0, 0.08);
             border-radius: 5px;
@@ -43,11 +52,6 @@
             padding: .125rem;
             white-space: pre-wrap;
         }
-        p {
-            margin-bottom: 1rem;
-            line-height: 1.25rem;
-        }
-        .btn { margin-bottom: 10px; }
     </style>
 </head>
 <body>
