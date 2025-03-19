@@ -60,7 +60,7 @@
             border-radius: 5px;
         }
 
-        #test-cases:not(.show-hidden-testcase) .testcase {
+        #test-cases:not(.show-hidden-testcase) .testcase.hidden {
             display: none;
         }
     </style>
@@ -100,10 +100,8 @@
                 
                 div.innerHTML = `
                     <h3>Test Case ${index + 1}</h3>
-                    <pre>
-                        <strong>Input:</strong> ${testCase.params[0].name} = ${testCase.params[0].value}
-                        <strong>Output:</strong> ${testCase.output.value}
-                    </pre>
+                    <pre><strong>Input:</strong> ${testCase.params[0].name} = ${testCase.params[0].value}
+<strong>Output:</strong> ${testCase.output.value}</pre>
                 `;
                 
                 return div;
