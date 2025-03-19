@@ -8,7 +8,7 @@
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
         .container { max-width: 800px; margin: auto; }
-        .btn { margin-bottom: 10px; }
+        .btn-wrapper { margin-bottom: 10px; }
         
         #problem-description {
             line-height: 1.75rem;
@@ -64,9 +64,15 @@
 <body>
     <div class="container">
         <h1>HUMG Coder (Problem Preview)</h1>
-        <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
-        <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
-        <button id="testcase-render" class="btn" onclick="toggleHiddenTestCase()">Show hidden test case: off</button>
+        <div class="btn-wrapper">
+            <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
+            <button id="testcase-render" class="btn" onclick="toggleHiddenTestCase()">Show hidden test case: off</button>
+        </div>
+        <div class="btn-wrapper">
+            <button class="btn" onclick="setDataUrl('./problems/fibonacci-number/problem.json')">Fibo</button>
+            <button class="btn" onclick="setDataUrl('./problems/container-with-most-water/problem_no_testcase.json')">Water</button>
+            <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
+        </div>
         <h1>Description</h1>
         <div id="problem-description"></div>
         <p>&nbsp;</p>
@@ -127,7 +133,7 @@
             renderTestCase();
         }
 
-        setDataUrl("./problems/container-with-most-water/problem_no_testcase.json");
+        setDataUrl("./problems/fibonacci-number/problem.json");
     </script>
 </body>
 </html>
