@@ -27,7 +27,8 @@
         #problem-description li {
             margin-bottom: .75rem;
         }
-        #problem-description pre {
+        #problem-description pre,
+        #test-cases pre {
             border-color: rgba(0, 0, 0, 0.08);
             border-left-width: 2px;
             color: rgba(0, 0, 0, 0.55);
@@ -53,13 +54,6 @@
             white-space: pre-wrap;
         }
 
-        .testcase {
-            margin-top: 20px;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-
         #test-cases:not(.show-hidden-testcase) .testcase.hidden {
             display: none;
         }
@@ -67,12 +61,14 @@
 </head>
 <body>
     <div class="container">
-        <h1>Description</h1>
+        <h1>HUMG Coder (Problem Preview)</h1>
         <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
         <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
         <button id="testcase-render" class="btn" onclick="renderTestCase()">Render test cases</button>
         <button id="testcase-render" class="btn" onclick="toggleHiddenTestCase()">Show hidden test case: off</button>
+        <h1>Description</h1>
         <div id="problem-description"></div>
+        <h1>Test Cases</h1>
         <div id="test-cases"></div>
     </div>
 
