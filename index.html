@@ -67,6 +67,7 @@
         <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
         <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
         <button id="testcase-render" class="btn" onclick="renderTestCase()">Render test cases</button>
+        <button id="testcase-render" class="btn" onclick="toggleHiddenTestCase()">Show hidden test case: off</button>
         <div id="problem-description"></div>
         <div id="test-cases"></div>
     </div>
@@ -85,7 +86,7 @@
         }
 
         function renderTestCase() {
-            const caseElems = data.cases.map((testCase) => {
+            const caseElems = data.cases.map((testCase, index) => {
                 const div = document.createElement("div");
                 div.classList.add("testcase");
                 
@@ -108,9 +109,18 @@
             testCasesContainer.replaceChildren(...caseElems);
         }
 
+        function toggleHiddenTestCase() {
+            const testCasesContainer = document.getElementById("test-cases");
+            testCasesContainer.classList.toggle("show-hidden-testcase");
+
+            document.getElementById("lang-switch").innerText = `Show hidden test case: ${testCasesContainer.classList.contains("show-hidden-testcase") ? "on" : "off"}`;
+        }
+
         async function setDataUrl(url) {
             window.data = await fetch(url).then(res => res.json());
             renderDescription()
+            
+            const testCasesContainer = document.getElementById("test-cases");
             testCasesContainer.replaceChildren();
         }
 
