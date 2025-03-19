@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem Statement</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        pre, code {
+            border-style: solid;
+            border-width: 0px;
+        }
+        li {
+            margin-bottom: .75rem;
+        }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 800px; margin: auto; }
+        pre {
+            border-color: rgba(0, 0, 0, 0.08);
+            border-left-width: 2px;
+            color: rgba(0, 0, 0, 0.55);
+            font-family: Menlo,sans-serif;
+            font-size: .875rem;
+            line-height: 1.25rem;
+            margin-bottom: 1rem;
+            margin-top: 1rem;
+            overflow: visible;
+            padding-left: 1rem;
+            white-space: pre-wrap;
+        }
+        code {
+            background-color: #000a2008;
+            border-color: rgba(0, 0, 0, 0.08);
+            border-radius: 5px;
+            border-width: 1px;
+            color: #262626bf;
+            font-family: Menlo,sans-serif;
+            font-size: .75rem;
+            line-height: 1rem;
+            padding: .125rem;
+            white-space: pre-wrap;
+        }
+        p { margin-bottom: 1rem; }
+        .btn { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Problem Statement</h1>
+        <button id="lang-switch" class="btn" onclick="switchLanguage()">Language: en</button>
+        <button id="data-switch" class="btn" onclick="setDataUrl(prompt('Data URL: '))">Change data URL</button>
+        <div id="problem-description"></div>
+    </div>
+
+    <script>
+        let currentLanguage = "en";
+
+        function switchLanguage() {
+            currentLanguage = currentLanguage === "en" ? "vi" : "en";
+            document.getElementById("lang-switch").innerText = `Language: ${currentLanguage}`;
+            renderDescription();
+        }
+
+        function renderDescription() {
+            document.getElementById("problem-description").innerHTML = marked.parse(window.data.description[currentLanguage]);
+        }
+
+        async function setDataUrl(url) {
+            window.data = await fetch(url).then(res => res.json());
+            renderDescription()
+        }
+
+        setDataUrl("https://raw.githubusercontent.com/Hth4nh/nckh_problems/refs/heads/main/problems/container-with-most-water/problem_no_testcase.json");
+    </script>
+</body>
+</html>
