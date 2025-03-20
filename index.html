@@ -103,10 +103,13 @@
                 if (!testCase.isVisible) {
                     div.classList.add("hidden");
                 }
+
+                let inputsStr = testCase.params.map(param => `${param.name} = ${param.value}`);
                 
                 div.innerHTML = `
                     <h3>Test Case ${index + 1}</h3>
-                    <pre><strong>Input:</strong> ${testCase.params[0].name} = ${testCase.params[0].value}
+                    <pre><strong>Input:</strong>
+${testCase.params.map(param => `${param.name} = ${param.value}`).join("\n")}
 <strong>Output:</strong> ${testCase.output.value}</pre>
                 `;
                 
