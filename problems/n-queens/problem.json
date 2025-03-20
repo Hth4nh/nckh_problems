@@ -1,0 +1,39 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "array",
+        "value": "[[\".Q..\",\"...Q\",\"Q...\",\"..Q.\"],[\"..Q.\",\"Q...\",\"...Q\",\".Q..\"]]"
+      },
+      "params": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "array",
+        "value": "[[\"Q\"]]"
+      },
+      "params": [
+        {
+          "name": "n",
+          "type": "number",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>The <strong>n-queens</strong> puzzle is the problem of placing <code>n</code> queens on an <code>n x n</code> chessboard such that no two queens attack each other.</p>\n\n<p>Given an integer <code>n</code>, return <em>all distinct solutions to the <strong>n-queens puzzle</strong></em>. You may return the answer in <strong>any order</strong>.</p>\n\n<p>Each solution contains a distinct board configuration of the n-queens' placement, where <code>'Q'</code> and <code>'.'</code> both indicate a queen and an empty space, respectively.</p>\n\n<p> </p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<img alt=\"\" style=\"width: 600px; height: 268px;\" src=\"https://assets.leetcode.com/uploads/2020/11/13/queens.jpg\">\n<pre><strong>Input:</strong> n = 4\n<strong>Output:</strong> [[\".Q..\",\"...Q\",\"Q...\",\"..Q.\"],[\"..Q.\",\"Q...\",\"...Q\",\".Q..\"]]\n<strong>Explanation:</strong> There exist two distinct solutions to the 4-queens puzzle as shown above\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre><strong>Input:</strong> n = 1\n<strong>Output:</strong> [[\"Q\"]]\n</pre>\n\n<p> </p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>1 <= n <= 9</code></li>\n</ul>",
+    "vi": "<p>Bài toán <strong>n-quân hậu</strong> là bài toán đặt <code>n</code> quân hậu trên bàn cờ <code>n x n</code> sao cho không có hai quân hậu nào tấn công lẫn nhau.</p>\n\n<p>Cho một số nguyên <code>n</code>, trả về <em>tất cả các giải pháp riêng biệt cho <strong>bài toán n-quân hậu</strong></em>. Bạn có thể trả về câu trả lời theo <strong>bất kỳ thứ tự nào</strong>.</p>\n\n<p>Mỗi giải pháp chứa một cấu hình bàn cờ riêng biệt về cách đặt n quân hậu, trong đó <code>'Q'</code> và <code>'.'</code> lần lượt biểu thị một quân hậu và một ô trống.</p>\n\n<p> </p>\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n<img alt=\"\" style=\"width: 600px; height: 268px;\" src=\"https://assets.leetcode.com/uploads/2020/11/13/queens.jpg\">\n<pre><strong>Đầu vào:</strong> n = 4\n<strong>Đầu ra:</strong> [[\".Q..\",\"...Q\",\"Q...\",\"..Q.\"],[\"..Q.\",\"Q...\",\"...Q\",\".Q..\"]]\n<strong>Giải thích:</strong> Có hai giải pháp riêng biệt cho bài toán 4-quân hậu như hình trên\n</pre>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<pre><strong>Đầu vào:</strong> n = 1\n<strong>Đầu ra:</strong> [[\"Q\"]]\n</pre>\n\n<p> </p>\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>1 <= n <= 9</code></li>\n</ul>"
+  },
+  "functionName": "solveNQueens"
+}
