@@ -45,7 +45,7 @@ function create(maxN, minV, maxV) {
             "type": "array",
             "value": JSON.stringify(result)
         },
-        "param": [
+        "params": [
             {
                 "name": "nums",
                 "type": "array",
@@ -89,7 +89,10 @@ function main() {
         arr.push(create(maxN, minV, maxV));
     }
 
-    console.log(JSON.stringify(arr, null, 2));
+    let obj = structuredClone(window.data);
+    obj.cases.push(...arr);
+
+    console.log(JSON.stringify(obj, null, 2));
 }
 
 main();
