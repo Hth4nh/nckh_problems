@@ -2,9 +2,8 @@ function getRandom(minV, maxV) {
     return Math.floor(Math.random() * (maxV - minV + 1)) + minV;
 }
 
-function create(maxN) {
-    let n = BigInt(getRandom(1, maxN));
-
+function solve(n) {
+    n = BigInt(n);
     // use matrix expo
     const mod = BigInt(1e9 + 7);
 
@@ -34,23 +33,25 @@ function create(maxN) {
 
     let fibMatrix = [[1n, 1n], [1n, 0n]];
     let resultMatrix = power(fibMatrix, n);
-    let fibN = resultMatrix[0][1];
+    return resultMatrix[0][1];
+}
 
-    let input = "" + n;
-    let output = "" + fibN;
+function create(maxN) {
+    let n = BigInt(getRandom(1, maxN));
+    let result = solve(n);
 
     return {
         isVisible: false,
         output: {
             "name": "result",
             "type": "number",
-            "value": output
+            "value": JSON.stringify(result)
         },
         param: [
             {
               "name": "n",
               "type": "number",
-              "value": input
+              "value": JSON.stringify(n)
             }
         ]
     };
