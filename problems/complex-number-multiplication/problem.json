@@ -39,6 +39,1006 @@
           "value": "\"1+-1i\""
         }
       ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"5345+-8170i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-44+93i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-94+-13i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-1840+6680i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"70+60i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"32+68i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"6380+1510i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-45+95i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-13+-61i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-2201+-7950i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"72+-95i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"42+-55i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-5068+-5276i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"12+94i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-62+46i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"6460+1440i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"34+67i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"56+-68i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"4342+3610i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"98+8i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"47+33i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"7481+-3481i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-83+-87i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-22+65i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"3260+-260i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"9+-29i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"40+100i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-1181+1557i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-19+-4i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"43+-91i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-3944+5032i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"66+-8i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-68+68i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"10551+-4159i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-88+-37i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-85+83i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-6256+4780i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-24+-100i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-31+-70i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"9017+-5765i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"82+25i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"81+-95i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-4998+790i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"95+-31i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-50+-8i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-5860+-4619i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"68+3i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-89+-64i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"2259+241i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"3+68i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"5+-33i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"856+-5548i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"82+98i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-29+-33i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-4299+-1037i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"61+34i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-61+17i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-62+-5519i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"3+-64i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"86+-5i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-2745+-2655i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"37+4i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-81+-63i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-3832+-5304i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-54+-26i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"96+52i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"8713+-1277i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-63+-53i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-71+80i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"4202+-2390i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"22+58i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-12+-77i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-7400+20i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-20+80i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"22+87i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"1982+9031i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"76+-51i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-37+94i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"1784+6320i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-64+-90i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-56+-20i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"4421+4698i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-61+-24i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-89+-42i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-6314+-2170i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-97+-63i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"56+-14i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"5136+2072i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-2+81i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"24+-64i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-1242+-4374i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-18+54i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-66+45i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"956+-2740i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-29+46i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-52+12i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"6637+-2854i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-2+-97i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"28+69i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-2722+6655i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-8+-87i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-73+-38i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"3854+-2310i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-53+-5i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-68+50i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-696+2332i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"2+27i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"84+32i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"2306+-3387i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"27+76i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-30+-41i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"3629+-6947i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"28+67i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-69+-83i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"178+-1824i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"8+-34i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"52+-7i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"627+1292i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-33+-68i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-19+0i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"4834+3338i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"60+22i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"89+23i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-344+-472i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"4+-5i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"24+-88i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"590+3120i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-14+-27i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-100+-30i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-935+2635i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-34+17i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"53+-51i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-2530+-6452i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-2+-100i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"65+-24i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"5426+10036i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"85+49i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"99+61i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"3987+3411i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-3+91i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"36+-45i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"578+4802i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-8+62i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"75+-19i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-3158+-6237i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"70+-29i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"-7+-92i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"-7101+-4026i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"-87+48i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"43+70i\""
+        }
+      ]
     }
   ],
   "description": {
