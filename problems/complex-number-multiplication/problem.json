@@ -1,0 +1,49 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"0+2i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"1+1i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"1+1i\""
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"0+-2i\""
+      },
+      "params": [
+        {
+          "name": "num1",
+          "type": "string",
+          "value": "\"1+-1i\""
+        },
+        {
+          "name": "num2",
+          "type": "string",
+          "value": "\"1+-1i\""
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>A <a href=\"https://en.wikipedia.org/wiki/Complex_number\" target=\"_blank\">complex number</a> can be represented as a string on the form <code>\"<strong>real</strong>+<strong>imaginary</strong>i\"</code> where:</p>\n\n<ul>\n\n<li><code>real</code> is the real part and is an integer in the range <code>[-100, 100]</code>.</li>\n\n<li><code>imaginary</code> is the imaginary part and is an integer in the range <code>[-100, 100]</code>.</li>\n\n<li><code>i<sup>2</sup> == -1</code>.</li>\n\n</ul>\n\n<p>Given two complex numbers <code>num1</code> and <code>num2</code> as strings, return <em>a string of the complex number that represents their multiplications</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre><strong>Input:</strong> num1 = \"1+1i\", num2 = \"1+1i\"\n<strong>Output:</strong> \"0+2i\"\n<strong>Explanation:</strong> (1 + i) * (1 + i) = 1 + i2 + 2 * i = 2i, and you need convert it to the form of 0+2i.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre><strong>Input:</strong> num1 = \"1+-1i\", num2 = \"1+-1i\"\n<strong>Output:</strong> \"0+-2i\"\n<strong>Explanation:</strong> (1 - i) * (1 - i) = 1 + i2 - 2 * i = -2i, and you need convert it to the form of 0+-2i.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>num1</code> and <code>num2</code> are valid complex numbers.</li>\n\n</ul>",
+    "vi": "<p>Một <a href=\"https://en.wikipedia.org/wiki/Complex_number\" target=\"_blank\">số phức</a> có thể được biểu diễn dưới dạng một chuỗi theo dạng <code>\"<strong>real</strong>+<strong>imaginary</strong>i\"</code> trong đó:</p>\n\n<ul>\n\n<li><code>real</code> là phần thực và là một số nguyên trong phạm vi <code>[-100, 100]</code>.</li>\n\n<li><code>imaginary</code> là phần ảo và là một số nguyên trong phạm vi <code>[-100, 100]</code>.</li>\n\n<li><code>i<sup>2</sup> == -1</code>.</li>\n\n</ul>\n\n<p>Cho hai số phức <code>num1</code> và <code>num2</code> dưới dạng chuỗi, trả về <em>một chuỗi số phức biểu thị phép nhân của chúng</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n\n<pre><strong>Đầu vào:</strong> num1 = \"1+1i\", num2 = \"1+1i\"\n<strong>Đầu ra:</strong> \"0+2i\"\n<strong>Giải thích:</strong> (1 + i) * (1 + i) = 1 + i2 + 2 * i = 2i, và bạn cần chuyển đổi nó sang dạng 0+2i.\n</pre>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<pre><strong>Đầu vào:</strong> num1 = \"1+-1i\", num2 = \"1+-1i\"\n<strong>Đầu ra:</strong> \"0+-2i\"\n<strong>Giải thích:</strong> (1 - i) * (1 - i) = 1 + i2 - 2 * i = -2i, và bạn cần chuyển đổi nó sang dạng 0+-2i.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>num1</code> và <code>num2</code> là các số phức hợp lệ.</li>\n\n</ul>"
+  },
+  "functionName": "complexNumberMultiply"
+}
