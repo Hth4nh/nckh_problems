@@ -47,7 +47,7 @@ function create(maxN) {
             "type": "number",
             "value": JSON.stringify(result)
         },
-        param: [
+        params: [
             {
               "name": "n",
               "type": "number",
