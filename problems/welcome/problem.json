@@ -1,0 +1,1554 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello Alex, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"Alex\""
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello Bob, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"Bob\""
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello Charlie, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"Charlie\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello AZVUNP, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"AZVUNP\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello C, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"C\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello oXMHT, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"oXMHT\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello KnZmvSmR, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"KnZmvSmR\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello YkJ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"YkJ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello szEjRSHjP, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"szEjRSHjP\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello heAAXm, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"heAAXm\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello iTgrbMn, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"iTgrbMn\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello vlPj, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"vlPj\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello DSujBxOJ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"DSujBxOJ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello dQdwgLpo, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"dQdwgLpo\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello sh, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"sh\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello fsrqUwtIe, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"fsrqUwtIe\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello aWNoheFIZ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"aWNoheFIZ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello J, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"J\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello ADHFg, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"ADHFg\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello lnR, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"lnR\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello FH, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"FH\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello YoJwMRNIh, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"YoJwMRNIh\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello pnTC, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"pnTC\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wBFmi, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wBFmi\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello ailxQDdpI, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"ailxQDdpI\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello vLrbhySBo, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"vLrbhySBo\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello DzokkrWU, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"DzokkrWU\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello HVihjbWZO, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"HVihjbWZO\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello BINk, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"BINk\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello fYn, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"fYn\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello vMn, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"vMn\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wbEhNyMDL, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wbEhNyMDL\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wEvM, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wEvM\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello bigPFwVeAK, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"bigPFwVeAK\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello q, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"q\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello lAXmefpT, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"lAXmefpT\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello UAAnC, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"UAAnC\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello DdcCuDEdK, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"DdcCuDEdK\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello YQhfFN, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"YQhfFN\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello xYHTsz, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"xYHTsz\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello Am, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"Am\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello tpkHgEBqb, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"tpkHgEBqb\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello xgfS, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"xgfS\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello xBxW, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"xBxW\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello gNu, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"gNu\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello hVuzZe, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"hVuzZe\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello RVPu, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"RVPu\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello OPWMjAECf, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"OPWMjAECf\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello ynOEfUiezE, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"ynOEfUiezE\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello SQtriiXKWs, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"SQtriiXKWs\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello i, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"i\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello doPlTL, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"doPlTL\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello byqBub, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"byqBub\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello Hy, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"Hy\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello psWOVcrLvjmpAattdpHLAnCJsMYQxGYTFREjSMeqQLPoEpENjmrZxOxUUYxiFqlDTUCYpRpGtVFKHIxJQOdeyDAsRNHTeGnK, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"psWOVcrLvjmpAattdpHLAnCJsMYQxGYTFREjSMeqQLPoEpENjmrZxOxUUYxiFqlDTUCYpRpGtVFKHIxJQOdeyDAsRNHTeGnK\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello kvQwBZhNfQm, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"kvQwBZhNfQm\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello SYtbuXNxmazJQAIHfNgChYXBrtvsueUxIuetretHcJQeVXARebYYLYpaQWkBhSHkNTMSthUjkUA, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"SYtbuXNxmazJQAIHfNgChYXBrtvsueUxIuetretHcJQeVXARebYYLYpaQWkBhSHkNTMSthUjkUA\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello CKSJYZkgheOKdNAiQdAeLWpBOkQreGxRlXplfwDrblOOhkTIBKERKDMAKDWteRdAcXL, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"CKSJYZkgheOKdNAiQdAeLWpBOkQreGxRlXplfwDrblOOhkTIBKERKDMAKDWteRdAcXL\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello sVeWSrehhynu, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"sVeWSrehhynu\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello drXNCpVpheQLjJCwucl, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"drXNCpVpheQLjJCwucl\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello AUxLbeZZCROFVdfdSHBqxuFjSGDiVRbUlZULNSnmQ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"AUxLbeZZCROFVdfdSHBqxuFjSGDiVRbUlZULNSnmQ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello KipRCcbrcQBhaARRUqRIOFLLAUgmqDIItTNskadMSOGpagrJxUxRthTjkMfe, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"KipRCcbrcQBhaARRUqRIOFLLAUgmqDIItTNskadMSOGpagrJxUxRthTjkMfe\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello jagOGAOHsevCbYNHbHtzHaMNdzPrHaxTVBCBltanUwolvePICugdIQjXhC, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"jagOGAOHsevCbYNHbHtzHaMNdzPrHaxTVBCBltanUwolvePICugdIQjXhC\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello yqwCkuCwJyVRppINSFcqjjIHHitfjKtWXemXKvgMspbxLfLoY, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"yqwCkuCwJyVRppINSFcqjjIHHitfjKtWXemXKvgMspbxLfLoY\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello gYBjWukUPMRPkUuJWRtqPRlYMRRIlVwxndNqnsoBMJY, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"gYBjWukUPMRPkUuJWRtqPRlYMRRIlVwxndNqnsoBMJY\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wpICATeRcutxDGvSLcjlrdSVZAueyuc, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wpICATeRcutxDGvSLcjlrdSVZAueyuc\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello hxO, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"hxO\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello gDvUFLFJTKFApjYcwJhjpHbThdDDLGvYKqCtRexcusVo, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"gDvUFLFJTKFApjYcwJhjpHbThdDDLGvYKqCtRexcusVo\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello bWKqVGsKEGLkViSJayskKzhqZGMQKhDoahpmjAJyvnqKTWvvJSrKKD, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"bWKqVGsKEGLkViSJayskKzhqZGMQKhDoahpmjAJyvnqKTWvvJSrKKD\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello LdFmwPPhsSITlzjyQvLwOhwqqtuBAzOjtIRMftlkoUkNHlGHDaxjG, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"LdFmwPPhsSITlzjyQvLwOhwqqtuBAzOjtIRMftlkoUkNHlGHDaxjG\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello nDXXqskCblvuPFoYoXfQdmhbMarp, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"nDXXqskCblvuPFoYoXfQdmhbMarp\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello lVtUVijqQQZcrVLUYnLrTDiExWZAxY, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"lVtUVijqQQZcrVLUYnLrTDiExWZAxY\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello GhYXAIfENoThhDMZndSYxO, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"GhYXAIfENoThhDMZndSYxO\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wfKsRqsNjcltvrrmtpFhLBhfZcrr, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wfKsRqsNjcltvrrmtpFhLBhfZcrr\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello AdpiPKclskgcSzmTbrkNefLXBVLj, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"AdpiPKclskgcSzmTbrkNefLXBVLj\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello gFQhPDrPvoIyLcEzruXGoudwXLWamopoaRmybHTqjsPIEoQsVjloYirffzSBsmaKUReTrPyzVkQfjJPyHSehVmUjqpoZJalvcHG, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"gFQhPDrPvoIyLcEzruXGoudwXLWamopoaRmybHTqjsPIEoQsVjloYirffzSBsmaKUReTrPyzVkQfjJPyHSehVmUjqpoZJalvcHG\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello kZWnnDafUWzmvbmuRHKSBIAVx, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"kZWnnDafUWzmvbmuRHKSBIAVx\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello MsufhyDDhYHSDpdGy, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"MsufhyDDhYHSDpdGy\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello gADJLBqhbYboi, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"gADJLBqhbYboi\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello SFMmivmkKWUirQ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"SFMmivmkKWUirQ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello uduhXAICGdBctAUsEEjnzIibSzPyYIWSdpuRegQIPSJhN, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"uduhXAICGdBctAUsEEjnzIibSzPyYIWSdpuRegQIPSJhN\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello zzgPQzcNYWbQmLdLiPkjObrzRsIzFzmOkHZYUAbRFRpDjeADVeSePKSsVEujyBHPzzUXBpMYqkZoXEjvRhApRcCSAqVibzB, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"zzgPQzcNYWbQmLdLiPkjObrzRsIzFzmOkHZYUAbRFRpDjeADVeSePKSsVEujyBHPzzUXBpMYqkZoXEjvRhApRcCSAqVibzB\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello HbDhqCcvqvamDsqVymEPCBJA, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"HbDhqCcvqvamDsqVymEPCBJA\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello BQvGpvoMbJRsenSgRURScnaDJzoGmYLhFSZjuSuVX, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"BQvGpvoMbJRsenSgRURScnaDJzoGmYLhFSZjuSuVX\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello KkpHreCBZRyBMwqDgAAztfjQrKeNszJOAaoneBlHkEMEPJckiXVsMTeocIxE, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"KkpHreCBZRyBMwqDgAAztfjQrKeNszJOAaoneBlHkEMEPJckiXVsMTeocIxE\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello mmBfZLubrGednvYdkJoVyniXbWqJhCDQ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"mmBfZLubrGednvYdkJoVyniXbWqJhCDQ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello FAwcBWjPmtG, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"FAwcBWjPmtG\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wIwQQrhDgKhLffJKocCjNoHRLUXFRguzxtqTUBXqWmgQTFIfUgTwkLprQsmbEJ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wIwQQrhDgKhLffJKocCjNoHRLUXFRguzxtqTUBXqWmgQTFIfUgTwkLprQsmbEJ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello TepYfHAHkOumvUDcMDnEAUkrBsfrcsOcBkSEzPFISLmwPgZpWTQtn, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"TepYfHAHkOumvUDcMDnEAUkrBsfrcsOcBkSEzPFISLmwPgZpWTQtn\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello pwWUbxZegMDfHldYwGPeIlGcW, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"pwWUbxZegMDfHldYwGPeIlGcW\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello XaqGKoMaQFCMznLxGlzCVPaXijFGvDrvnpGZlpEgzWQjGSidJDfvwiSXTzEQdhAJPwiOozmllLJTXTm, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"XaqGKoMaQFCMznLxGlzCVPaXijFGvDrvnpGZlpEgzWQjGSidJDfvwiSXTzEQdhAJPwiOozmllLJTXTm\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello zfvPAkkFBsIJYX, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"zfvPAkkFBsIJYX\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello rSWYWneXQJEjInX, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"rSWYWneXQJEjInX\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello UtcPGMUlJZcxFsZWahKTNTsuua, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"UtcPGMUlJZcxFsZWahKTNTsuua\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello hzotkShhlCOxEwvCqGxjIdxOMSWGNbzFxThmt, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"hzotkShhlCOxEwvCqGxjIdxOMSWGNbzFxThmt\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello SqOXunGtfSPXXeWnILXmpbwasPHcClAzvcnzaWpmmHOBACyXwyUbPZDHhtJsnNbTQyJHTGtVNcTpJDFOEec, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"SqOXunGtfSPXXeWnILXmpbwasPHcClAzvcnzaWpmmHOBACyXwyUbPZDHhtJsnNbTQyJHTGtVNcTpJDFOEec\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello wgxhiPHPZMlgMuuUbXkyQhApowuxAFAUWbwBmdrWhomoYnxQ, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"wgxhiPHPZMlgMuuUbXkyQhApowuxAFAUWbwBmdrWhomoYnxQ\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello PAqIdDxlGOdiRSHvUCbByhlsgxJEwSPxGbuADseNLRbvUWEzKwlWyRbJiywYwDbrUWxlgT, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"PAqIdDxlGOdiRSHvUCbByhlsgxJEwSPxGbuADseNLRbvUWEzKwlWyRbJiywYwDbrUWxlgT\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello TYSYOkZoKzdzqXVtliCBOhMkjJMq, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"TYSYOkZoKzdzqXVtliCBOhMkjJMq\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello KKhjrHOUvMZUIZNbORYzQVtYXwUgadftfbkaGVyaPxf, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"KKhjrHOUvMZUIZNbORYzQVtYXwUgadftfbkaGVyaPxf\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello VVNdJqxQUtypRZsgGrwTzFrhhNrCHIrqmaJvOmyEbZcbbriMsHGDizFEYbcob, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"VVNdJqxQUtypRZsgGrwTzFrhhNrCHIrqmaJvOmyEbZcbbriMsHGDizFEYbcob\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello snHjBhKbFckGVcWVbbTlwsUwpeUBtmeqiVngTnogwRglzWbOwKsSJAVMJMdSoPUcpJmK, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"snHjBhKbFckGVcWVbbTlwsUwpeUBtmeqiVngTnogwRglzWbOwKsSJAVMJMdSoPUcpJmK\""
+        }
+      ]
+    },
+    {
+      "isVisible": false,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"Hello cdEThYqGTEIh, welcome to HUMGCoder!\""
+      },
+      "params": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "\"cdEThYqGTEIh\""
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>HUMGCoder is a fantastic platform for learning and practicing coding. To enhance the user experience, we want to provide a personalized welcome message to each new member upon their arrival.</p>\n\n<p>Your task is to write a function that takes a user's name as input and generates a welcome message tailored specifically for them.</p>\n\n<p>Given a string representing the user's <code>name</code>, your function should return a string in the format: <code>\"Hello [name], welcome to HUMGCoder!\"</code>. Make sure to replace <code>[name]</code> with the actual name provided as input.</p>\n\n<p>For example, if the input is <code>\"Alice\"</code>, the expected output should be <code>\"Hello Alice, welcome to HUMGCoder!\"</code>.</p>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre><strong>Input:</strong> name = \"Alex\"\n<strong>Output:</strong> \"Hello Alex, welcome to HUMGCoder!\"\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre><strong>Input:</strong> name = \"Bob\"\n<strong>Output:</strong> \"Hello Bob, welcome to HUMGCoder!\"\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre><strong>Input:</strong> name = \"Charlie\"\n<strong>Output:</strong> \"Hello Charlie, welcome to HUMGCoder!\"\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>1 <= name.length <= 100</code></li>\n\n<li><code>name</code> consists of uppercase and lowercase English letters.</li>\n\n</ul>",
+    "vi": "<p>HUMGCoder là một nền tảng tuyệt vời để học và thực hành lập trình. Để nâng cao trải nghiệm người dùng, chúng tôi muốn cung cấp một thông báo chào mừng được cá nhân hóa cho mỗi thành viên mới khi họ tham gia.</p>\n\n<p>Nhiệm vụ của bạn là viết một hàm nhận tên của người dùng làm đầu vào và tạo ra một thông báo chào mừng được thiết kế riêng cho họ.</p>\n\n<p>Cho một chuỗi <code>name</code> đại diện cho tên của người dùng, hàm của bạn sẽ trả về một chuỗi theo định dạng: <code>\"Hello [name], welcome to HUMGCoder!\"</code>. Hãy chắc chắn thay thế <code>[name]</code> bằng tên thực tế được cung cấp làm đầu vào.</p>\n\n<p>Ví dụ: nếu đầu vào là <code>\"Alice\"</code>, đầu ra dự kiến sẽ là <code>\"Hello Alice, welcome to HUMGCoder!\"</code>.</p>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n\n<pre><strong>Đầu vào:</strong> name = \"Alex\"\n<strong>Đầu ra:</strong> \"Hello Alex, welcome to HUMGCoder!\"\n</pre>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<pre><strong>Đầu vào:</strong> name = \"Bob\"\n<strong>Đầu ra:</strong> \"Hello Bob, welcome to HUMGCoder!\"\n</pre>\n\n<p><strong class=\"example\">Ví dụ 3:</strong></p>\n\n<pre><strong>Đầu vào:</strong> name = \"Charlie\"\n<strong>Đầu ra:</strong> \"Hello Charlie, welcome to HUMGCoder!\"\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>1 <= name.length <= 100</code></li>\n\n<li><code>name</code> bao gồm các chữ cái tiếng Anh viết hoa và viết thường.</li>\n\n</ul>"
+  },
+  "functionName": "createWelcomeMessage"
+}
