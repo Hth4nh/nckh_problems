@@ -1,0 +1,54 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "boolean",
+        "value": "true"
+      },
+      "params": [
+        {
+          "name": "nums",
+          "type": "array",
+          "value": "[1,2,3,1]"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "boolean",
+        "value": "false"
+      },
+      "params": [
+        {
+          "name": "nums",
+          "type": "array",
+          "value": "[1,2,3,4]"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "boolean",
+        "value": "true"
+      },
+      "params": [
+        {
+          "name": "nums",
+          "type": "array",
+          "value": "[1,1,1,3,3,4,3,2,4,2]"
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>Given an integer array <code>nums</code>, return <code>true</code> if any value appears <strong>at least twice</strong> in the array, and return <code>false</code> if every element is distinct.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,2,3,1]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">true</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>The element 1 occurs at the indices 0 and 3.</p>\n</div>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,2,3,4]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">false</span></p>\n\n<p><strong>Explanation:</strong></p>\n\n<p>All elements are distinct.</p>\n</div>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Input:</strong> <span class=\"example-io\">nums = [1,1,1,3,3,4,3,2,4,2]</span></p>\n\n<p><strong>Output:</strong> <span class=\"example-io\">true</span></p>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>1 <= nums.length <= 10<sup>5</sup></code></li>\n\n<li><code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code></li>\n\n</ul>",
+    "vi": "<p>Cho một mảng số nguyên <code>nums</code>, trả về <code>true</code> nếu bất kỳ giá trị nào xuất hiện <strong>ít nhất hai lần</strong> trong mảng và trả về <code>false</code> nếu mọi phần tử là riêng biệt.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Đầu vào:</strong> <span class=\"example-io\">nums = [1,2,3,1]</span></p>\n\n<p><strong>Đầu ra:</strong> <span class=\"example-io\">true</span></p>\n\n<p><strong>Giải thích:</strong></p>\n\n<p>Phần tử 1 xuất hiện tại các chỉ số 0 và 3.</p>\n</div>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Đầu vào:</strong> <span class=\"example-io\">nums = [1,2,3,4]</span></p>\n\n<p><strong>Đầu ra:</strong> <span class=\"example-io\">false</span></p>\n\n<p><strong>Giải thích:</strong></p>\n\n<p>Tất cả các phần tử là riêng biệt.</p>\n</div>\n\n<p><strong class=\"example\">Ví dụ 3:</strong></p>\n\n<div class=\"example-block\">\n<p><strong>Đầu vào:</strong> <span class=\"example-io\">nums = [1,1,1,3,3,4,3,2,4,2]</span></p>\n\n<p><strong>Đầu ra:</strong> <span class=\"example-io\">true</span></p>\n</div>\n\n<p>&nbsp;</p>\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>1 <= nums.length <= 10<sup>5</sup></code></li>\n\n<li><code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code></li>\n\n</ul>"
+  },
+  "functionName": "containsDuplicate"
+}
