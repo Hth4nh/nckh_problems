@@ -1,0 +1,49 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"100\""
+      },
+      "params": [
+        {
+          "name": "a",
+          "type": "string",
+          "value": "\"11\""
+        },
+        {
+          "name": "b",
+          "type": "string",
+          "value": "\"1\""
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "string",
+        "value": "\"10101\""
+      },
+      "params": [
+        {
+          "name": "a",
+          "type": "string",
+          "value": "\"1010\""
+        },
+        {
+          "name": "b",
+          "type": "string",
+          "value": "\"1011\""
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>Given two binary strings <code>a</code> and <code>b</code>, return <em>their sum as a binary string</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> a = \"11\", b = \"1\"\n<strong>Output:</strong> \"100\"\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> a = \"1010\", b = \"1011\"\n<strong>Output:</strong> \"10101\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n<li><code>1 <= a.length, b.length <= 10<sup>4</sup></code></li>\n\n<li><code>a</code> and <code>b</code> consist&nbsp;only of <code>'0'</code> or <code>'1'</code> characters.</li>\n\n<li>Each string does not contain leading zeros except for the zero itself.</li>\n\n</ul>",
+    "vi": "<p>Cho hai chuỗi nhị phân <code>a</code> và <code>b</code>, trả về <em>tổng của chúng dưới dạng một chuỗi nhị phân</em>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n<pre><strong>Đầu vào:</strong> a = \"11\", b = \"1\"\n<strong>Đầu ra:</strong> \"100\"\n</pre><p><strong class=\"example\">Ví dụ 2:</strong></p>\n<pre><strong>Đầu vào:</strong> a = \"1010\", b = \"1011\"\n<strong>Đầu ra:</strong> \"10101\"\n</pre>\n<p>&nbsp;</p>\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n<li><code>1 <= a.length, b.length <= 10<sup>4</sup></code></li>\n\n<li><code>a</code> và <code>b</code> chỉ bao gồm các ký tự <code>'0'</code> hoặc <code>'1'</code>.</li>\n\n<li>Mỗi chuỗi không chứa các số không ở đầu trừ chính số không.</li>\n\n</ul>"
+  },
+  "functionName": "addBinary"
+}
