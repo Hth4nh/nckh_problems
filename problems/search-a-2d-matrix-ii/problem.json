@@ -1,0 +1,49 @@
+{
+  "cases": [
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "boolean",
+        "value": "true"
+      },
+      "params": [
+        {
+          "name": "matrix",
+          "type": "array",
+          "value": "[[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]]"
+        },
+        {
+          "name": "target",
+          "type": "number",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "isVisible": true,
+      "output": {
+        "name": "result",
+        "type": "boolean",
+        "value": "false"
+      },
+      "params": [
+        {
+          "name": "matrix",
+          "type": "array",
+          "value": "[[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]]"
+        },
+        {
+          "name": "target",
+          "type": "number",
+          "value": "20"
+        }
+      ]
+    }
+  ],
+  "description": {
+    "en": "<p>Write an efficient algorithm that searches for a value <code>target</code> in an <code>m x n</code> integer matrix <code>matrix</code>. This matrix has the following properties:</p>\n\n<ul>\n\n\n\n\n <li>Integers in each row are sorted in ascending from left to right.</li>\n\n\n\n\n <li>Integers in each column are sorted in ascending from top to bottom.</li>\n\n\n\n\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<img src=\"https://assets.leetcode.com/uploads/2020/11/24/searchgrid2.jpg\" style=\"width: 300px; height: 300px;\" alt=\"\">\n\n<pre><strong>Input:</strong> matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 5\n\n<strong>Output:</strong> true\n\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<img src=\"https://assets.leetcode.com/uploads/2020/11/24/searchgrid.jpg\" style=\"width: 300px; height: 300px;\" alt=\"\">\n\n<pre><strong>Input:</strong> matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 20\n\n<strong>Output:</strong> false\n\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\n\n\n\n <li><code>m == matrix.length</code></li>\n\n\n\n\n <li><code>n == matrix[i].length</code></li>\n\n\n\n\n <li><code>1 <= n, m <= 300</code></li>\n\n\n\n\n <li><code>-10<sup>9</sup> <= matrix[i][j] <= 10<sup>9</sup></code></li>\n\n\n\n\n <li>All the integers in each row are <strong>sorted</strong> in ascending order.</li>\n\n\n\n\n <li>All the integers in each column are <strong>sorted</strong> in ascending order.</li>\n\n\n\n\n <li><code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code></li>\n\n\n\n\n</ul>",
+    "vi": "<p>Viết một thuật toán hiệu quả để tìm kiếm một giá trị <code>target</code> trong một ma trận số nguyên <code>matrix</code> kích thước <code>m x n</code>. Ma trận này có các thuộc tính sau:</p>\n\n<ul>\n\n\n\n\n <li>Các số nguyên trong mỗi hàng được sắp xếp tăng dần từ trái sang phải.</li>\n\n\n\n\n <li>Các số nguyên trong mỗi cột được sắp xếp tăng dần từ trên xuống dưới.</li>\n\n\n\n\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong class=\"example\">Ví dụ 1:</strong></p>\n\n<img src=\"https://assets.leetcode.com/uploads/2020/11/24/searchgrid2.jpg\" style=\"width: 300px; height: 300px;\" alt=\"\">\n\n<pre><strong>Đầu vào:</strong> matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 5\n\n<strong>Đầu ra:</strong> true\n\n</pre>\n\n<p><strong class=\"example\">Ví dụ 2:</strong></p>\n\n<img src=\"https://assets.leetcode.com/uploads/2020/11/24/searchgrid.jpg\" style=\"width: 300px; height: 300px;\" alt=\"\">\n\n<pre><strong>Đầu vào:</strong> matrix = [[1,4,7,11,15],[2,5,8,12,19],[3,6,9,16,22],[10,13,14,17,24],[18,21,23,26,30]], target = 20\n\n<strong>Đầu ra:</strong> false\n\n</pre>\n\n<p>&nbsp;</p>\n\n<p><strong>Ràng buộc:</strong></p>\n\n<ul>\n\n\n\n\n <li><code>m == matrix.length</code></li>\n\n\n\n\n <li><code>n == matrix[i].length</code></li>\n\n\n\n\n <li><code>1 <= n, m <= 300</code></li>\n\n\n\n\n <li><code>-10<sup>9</sup> <= matrix[i][j] <= 10<sup>9</sup></code></li>\n\n\n\n\n <li>Tất cả các số nguyên trong mỗi hàng được <strong>sắp xếp</strong> theo thứ tự tăng dần.</li>\n\n\n\n\n <li>Tất cả các số nguyên trong mỗi cột được <strong>sắp xếp</strong> theo thứ tự tăng dần.</li>\n\n\n\n\n <li><code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code></li>\n\n\n\n\n</ul>"
+  },
+  "functionName": "searchMatrix"
+}
